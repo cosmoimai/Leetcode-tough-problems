@@ -7,7 +7,6 @@
 // Input2: nums = [1,5]
 // Output2: 10
 
-
 class Solution {
 public:
     int maxCoins(vector<int>& nums) {
